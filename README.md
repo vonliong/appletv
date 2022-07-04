@@ -271,55 +271,55 @@ http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/rhk31.png" group-title="港澳",香港电台31
-http://cdn.hklive.tv/raw/31.ts
+http://cdn.hklive.tv/hls/31/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/rhk32.png" group-title="港澳",香港电台32
-http://cdn.hklive.tv/raw/32.ts
+http://cdn.hklive.tv/hls/32/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/rhk33.png" group-title="港澳",香港电台33
-http://cdn.hklive.tv/raw/33.ts
+http://cdn.hklive.tv/hls/33/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/hkibc.png" group-title="港澳",香港国际财经
-http://cdn.hklive.tv/raw/76.ts
+http://cdn.hklive.tv/hls/76/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/kaidianshi.png" group-title="港澳",香港开电视
-http://cdn.hklive.tv/raw/77.ts
+http://cdn.hklive.tv/hls/77/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/feicui.png" group-title="港澳",TVB翡翠
-http://cdn.hklive.tv/raw/81.ts
+http://cdn.hklive.tv/hls/81/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/j2.png" group-title="港澳",TVB翡翠2
-http://cdn.hklive.tv/raw/82.ts
+http://cdn.hklive.tv/hls/82/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/wuxianxinwen.png" group-title="港澳",TVB无线新闻
-http://cdn.hklive.tv/raw/83.ts
+http://cdn.hklive.tv/hls/83/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/mingzhu.png" group-title="港澳",TVB明珠
-http://cdn.hklive.tv/raw/84.ts
+http://cdn.hklive.tv/hls/84/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/wuxiancaijing.png" group-title="港澳",TVB财经资讯
-http://cdn.hklive.tv/raw/85.ts
+http://cdn.hklive.tv/hls/85/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/viutv.png" group-title="港澳",香港电视娱乐
-http://cdn.hklive.tv/raw/99.ts
+http://cdn.hklive.tv/hls/99/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/viutv6.png" group-title="港澳",香港电视娱乐6
-http://cdn.hklive.tv/raw/96.ts
+http://cdn.hklive.tv/hls/96/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/icablenews.png" group-title="港澳",有线新闻台
-http://cdn.hklive.tv/raw/109.ts
+http://cdn.hklive.tv/hls/109/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nowlive.png" group-title="港澳",NOW直播台
-http://cdn.hklive.tv/raw/331.ts
+http://cdn.hklive.tv/hls/331/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nownews.png" group-title="港澳",NOW新闻台
-http://cdn.hklive.tv/raw/332.ts
+http://cdn.hklive.tv/hls/332/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nowfinance.png" group-title="港澳",NOW财经台
-http://cdn.hklive.tv/raw/333.ts
+http://cdn.hklive.tv/hls/333/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nowsportsprime.png" group-title="港澳",NOW卫视体育台
-http://cdn.hklive.tv/raw/630.ts
+http://cdn.hklive.tv/hls/630/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/aomen1.png" group-title="港澳",澳门澳视
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
