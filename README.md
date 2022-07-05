@@ -306,21 +306,6 @@ http://cdn.hklive.tv/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/viutv6.png" group-title="港澳",香港电视娱乐6
 http://cdn.hklive.tv/hls/96/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/icablenews.png" group-title="港澳",有线新闻台
-http://cdn.hklive.tv/hls/109/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nowlive.png" group-title="港澳",NOW直播台
-http://cdn.hklive.tv/hls/331/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nownews.png" group-title="港澳",NOW新闻台
-http://cdn.hklive.tv/hls/332/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nowfinance.png" group-title="港澳",NOW财经台
-http://cdn.hklive.tv/hls/333/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nowsportsprime.png" group-title="港澳",NOW卫视体育台
-http://cdn.hklive.tv/hls/630/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/aomen1.png" group-title="港澳",澳门澳视
 http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
 
