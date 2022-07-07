@@ -351,13 +351,19 @@ http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="中天新闻台" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/zhongtiannew.png" group-title="台湾",中天新闻
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="国际",NASA
+#EXTINF:-1 tvg-id="" tvg-name="美国中文电视" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/sinovision.png" group-title="国际",美国中文电视
+http://cdnts.sinovision.net/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nationalgeographic.png" group-title="国际",国家地理频道
+http://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NASA" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nasa.png" group-title="国际",NASA公共频道
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="" group-title="国际",BBC
+#EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/bbcnew1.png" group-title="国际",BBC世界新闻
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="国际",CNN
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/cnninternational.png" group-title="国际",CNN国际新闻
 http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHKWorld" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nhk.png" group-title="国际",NHK放送协会
@@ -368,9 +374,3 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/mtv.png" group-title="国际",MTV音乐频道
 http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nationalgeographic.png" group-title="国际",国家地理频道
-http://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="美国中文电视" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/sinovision.png" group-title="国际",美国中文电视
-http://cdnts.sinovision.net/livestream.m3u8
