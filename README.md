@@ -355,19 +355,19 @@ http://seb.sason.top/sc/ztxw_fhd.m3u8
 http://cdnts.sinovision.net/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="国家地理频道" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nationalgeographic.png" group-title="国际",国家地理频道
-http://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
+http://livecdn.fptplay.net/hda2/natgeohd_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NASA" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nasa.png" group-title="国际",NASA公共频道
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/bbcnew1.png" group-title="国际",BBC世界新闻
-http://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u
+http://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/cnninternational.png" group-title="国际",CNN国际新闻
 http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHKWorld" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nhk.png" group-title="国际",NHK放送协会
-http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist.m3u8
+http://livecdn.fptplay.net/hda2/nhkworld_2000.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/cna.png" group-title="国际",CNA亚洲新闻
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
