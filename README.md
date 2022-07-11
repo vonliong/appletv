@@ -361,16 +361,16 @@ http://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
 http://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="BBCWorldNews" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/bbcnew1.png" group-title="国际",BBC世界新闻
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+http://livecdn.fptplay.net/sdb/bbcnew_hls.smil/chunklist_b2500000.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/cnninternational.png" group-title="国际",CNN国际新闻
 http://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="NHKWorld" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/nhk.png" group-title="国际",NHK放送协会
-http://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/cna.png" group-title="国际",CNA亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://github.com/vonliong/appletv/releases/download/logo/mtv.png" group-title="国际",MTV音乐频道
 http://38.127.211.18/live/c2eds/MTV/HLS/index.m3u8
