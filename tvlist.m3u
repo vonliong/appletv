@@ -101,7 +101,7 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv4k.png" group-title="央视",CCTV4K超高清(4K 重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv8k.png" group-title="央视",CCTV8K超高清(4K HLG IPv6)
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv8k.png" group-title="央视",CCTV8K超高清(4K HLG IPv6)
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cgtn.png" group-title="央视",CGTN英语(官方网络)
