@@ -2,97 +2,135 @@
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv1.png" group-title="央视",CCTV1综合(4K IPv6)
 http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv1.png" group-title="央视",CCTV1综合(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv1.png" group-title="央视",CCTV1综合(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv1HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv1.png" group-title="央视",CCTV1综合(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv2.png" group-title="央视",CCTV2财经(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001220/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv2.png" group-title="央视",CCTV2财经(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv2HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv2.png" group-title="央视",CCTV2财经(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000295?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv3.png" group-title="央视",CCTV3综艺(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001186/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv3.png" group-title="央视",CCTV3综艺(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv3HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv3.png" group-title="央视",CCTV3综艺(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000302?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv4.png" group-title="央视",CCTV4中文国际(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001221/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv4.png" group-title="央视",CCTV4中文国际(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv4HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv4.png" group-title="央视",CCTV4中文国际(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000342?AuthInfo=xxx&amp;userid=
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv4e.png" group-title="央视",CCTV4中文国际欧洲
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4欧洲" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv4e.png" group-title="央视",CCTV4中文国际欧洲(无源)
 http://cctv4e
 
-#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv4a.png" group-title="央视",CCTV4中文国际美洲
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4美洲" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv4a.png" group-title="央视",CCTV4中文国际美洲(无源)
 http://cctv4a
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv5.png" group-title="央视",CCTV5体育(4K IPv6)
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv5.png" group-title="央视",CCTV5体育(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001187/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv5.png" group-title="央视",CCTV5体育(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv5HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv5.png" group-title="央视",CCTV5体育(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000304?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv5+.png" group-title="央视",CCTV5+体育赛事(IPv6)
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv5+.png" group-title="央视",CCTV5+体育赛事(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv5SportHD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv5+.png" group-title="央视",CCTV5+体育赛事(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000230?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv6.png" group-title="央视",CCTV6电影(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001188/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv6.png" group-title="央视",CCTV6电影(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv6HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv6.png" group-title="央视",CCTV6电影(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000305?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv7.png" group-title="央视",CCTV7国防军事(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001236/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv7.png" group-title="央视",CCTV7国防军事(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv7HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv7.png" group-title="央视",CCTV7国防军事(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000290?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv8.png" group-title="央视",CCTV8电视剧(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001189/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv8.png" group-title="央视",CCTV8电视剧(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv8HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv8.png" group-title="央视",CCTV8电视剧(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000307?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv9.png" group-title="央视",CCTV9记录(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001237/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv9.png" group-title="央视",CCTV9记录(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv9HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv9.png" group-title="央视",CCTV9记录(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000294?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv10.png" group-title="央视",CCTV10科教(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001238/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv10.png" group-title="央视",CCTV10科教(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv10HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv10.png" group-title="央视",CCTV10科教(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000293?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv11.png" group-title="央视",CCTV11戏曲(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv11.png" group-title="央视",CCTV11戏曲(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv11.png" group-title="央视",CCTV11戏曲(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000389?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv12.png" group-title="央视",CCTV12社会与法(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001239/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv12.png" group-title="央视",CCTV12社会与法(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv12HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv12.png" group-title="央视",CCTV12社会与法(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000292?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv13.png" group-title="央视",CCTV13新闻(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv13.png" group-title="央视",CCTV13新闻(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv13.png" group-title="央视",CCTV13新闻(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000387?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv14.png" group-title="央视",CCTV14少儿(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv14.png" group-title="央视",CCTV14少儿(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctvseHD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv14.png" group-title="央视",CCTV14少儿(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000291?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv15.png" group-title="央视",CCTV15音乐(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001338/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv15.png" group-title="央视",CCTV15音乐(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv15HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv15.png" group-title="央视",CCTV15音乐(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000388?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv16.png" group-title="央视",CCTV16奥林匹克(4K IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001258/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv16.png" group-title="央视",CCTV16奥林匹克(4K HLG IPv6)
+http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv16.png" group-title="央视",CCTV16奥林匹克(4K 重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=CCTV16_4K
 
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv17.png" group-title="央视",CCTV17农业农村(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001241/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv17.png" group-title="央视",CCTV17农业农村(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=cctv17HD
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv17.png" group-title="央视",CCTV17农业农村(重庆联通组播)
@@ -102,7 +140,7 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx
 https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cctv8k.png" group-title="央视",CCTV8K超高清(4K HLG IPv6)
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cgtn.png" group-title="央视",CGTN英语(官方网络)
 http://live.cgtn.com/1000/prog_index.m3u8
@@ -122,17 +160,17 @@ http://livear.cgtn.com/1000a/prog_index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cgtns.png" group-title="央视",CGTN西班牙语(官方网络)
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cetv1.png" group-title="教育部",CETV1(官方网络)
-http://txycsbl.centv.cn/zb/0628cetv1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中国教育1台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cetv1.png" group-title="教育部",CETV1(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001020/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cetv2.png" group-title="教育部",CETV2(官方网络)
-http://txycsbl.centv.cn/zb/0822cetv2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中国教育2台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cetv2.png" group-title="教育部",CETV2(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001226/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="中国教育3台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cetv3.png" group-title="教育部",CETV3(官方网络)
-http://txycsbl.centv.cn/zb/0822cetv3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中国教育3台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cetv3.png" group-title="教育部",CETV3(无源)
+http://cetv3
 
-#EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cetv4.png" group-title="教育部",CETV4(官方网络)
-http://txycsbl.centv.cn/zb/0822cetv4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="中国教育4台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cetv4.png" group-title="教育部",CETV4(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/xhzw.png" group-title="新华社",CNC中文(官方网络)
 http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
@@ -140,51 +178,57 @@ http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/xhyw.png" group-title="新华社",CNC英文(官方网络)
 http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc72.png" group-title="央视",CHC家庭影院
-https://live.goodiptv.club/api/sxg.php?id=jbtygqCHCjtyyH265_4000
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc72.png" group-title="央视",CHC家庭影院(IPv6)
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc73.png" group-title="央视",CHC动作电影
-https://live.goodiptv.club/api/sxg.php?id=wqCHCdzdyH265_4000
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc73.png" group-title="央视",CHC动作电影(IPv6)
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc74.png" group-title="央视",CHC高清电影
-http://live.aptvapp.com/sxg.php?id=lnwsCHC-HDH265_4000
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc74.png" group-title="央视",CHC高清电影(IPv6)
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#EXTINF:-1 tvg-id="" tvg-name="求索记录" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qiusuo1.png" group-title="华数",求索记录(IPv6)
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="" tvg-name="求索记录" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qiusuo1.png" group-title="华数",求索记录(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
 
-#EXTINF:-1 tvg-id="" tvg-name="求索科学" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qiusuo2.png" group-title="华数",求索科学
-http://qskx
+#EXTINF:-1 tvg-id="" tvg-name="求索科学" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qiusuo2.png" group-title="华数",求索科学(IPv6)
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qiusuo3.png" group-title="华数",求索生活
-http://qssh
+#EXTINF:-1 tvg-id="" tvg-name="求索生活" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qiusuo3.png" group-title="华数",求索生活(IPv6)
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 
-#EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qiusuo4.png" group-title="华数",求索动物
-http://qsdw
+#EXTINF:-1 tvg-id="" tvg-name="求索动物" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qiusuo4.png" group-title="华数",求索动物(IPv6)
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/ahtv.png" group-title="卫视",安徽卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/ahtv.png" group-title="卫视",安徽卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=anhuiSD
 #EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/ahtv.png" group-title="卫视",安徽卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/bjtv.png" group-title="卫视",北京卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001029/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/bjtv.png" group-title="卫视",北京卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=beijingHD
 #EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/bjtv.png" group-title="卫视",北京卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="卡酷动画" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/kksr.png" group-title="卫视",北京卡酷少儿(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="卡酷动画" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/kksr.png" group-title="卫视",北京卡酷少儿(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=bjkakuSD
 
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cqtv.png" group-title="卫视",重庆卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001129/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cqtv.png" group-title="卫视",重庆卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=chongqingHD
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/cqtv.png" group-title="卫视",重庆卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/dntv.png" group-title="卫视",福建东南卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001201/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/dntv.png" group-title="卫视",福建东南卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=dongnanHD
 #EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/dntv.png" group-title="卫视",福建东南卫视(重庆联通组播)
@@ -196,73 +240,101 @@ http://live6.fjtv.net/haixiapd/hd/live.m3u8?_upt=28cade011683982233
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/xmtv.png" group-title="卫视",福建厦门卫视(IPv6)
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw3078587192_904042572/ott.mobaibox.com/PLTV/3/224/3221227604/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/gstv.png" group-title="卫视",甘肃卫视
-https://live.goodiptv.club/api/sxg.php?id=gsws_4000
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/gstv.png" group-title="卫视",甘肃卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001298/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/gdtv.png" group-title="卫视",广东卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/gdtv.png" group-title="卫视",广东卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=guangdongHD
 #EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/gdtv.png" group-title="卫视",广东卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&amp;userid=
 
-#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jjkt.png" group-title="卫视",广东嘉佳卡通
-https://live.goodiptv.club/api/sxg.php?id=jjkt_2000
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jjkt.png" group-title="卫视",广东嘉佳卡通(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001227/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="南方卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/nftv.png" group-title="卫视",广东大湾区卫视(IPv6)
 http://[2409:8087:2001:20:2800:0:df6e:eb06]/wh7f454c46tw3047963603_1698383156/ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sztv.png" group-title="卫视",广东深圳卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001030/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sztv.png" group-title="卫视",广东深圳卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=shenzhenHD
 #EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sztv.png" group-title="卫视",广东深圳卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/gxtv.png" group-title="卫视",广西卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001224/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/gxtv.png" group-title="卫视",广西卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=guangxiHD
 
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/gztv.png" group-title="卫视",贵州卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001184/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/gztv.png" group-title="卫视",贵州卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=guizhouHD
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/gztv.png" group-title="卫视",贵州卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000340?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/lytv.png" group-title="卫视",海南卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001183/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/lytv.png" group-title="卫视",海南卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=hainanSD
 #EXTINF:-1 tvg-id="" tvg-name="旅游卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/lytv.png" group-title="卫视",海南卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000385?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sstv.png" group-title="卫视",海南三沙卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001185/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="三沙卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sstv.png" group-title="卫视",海南三沙卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=sanshaSD
 
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hbws.png" group-title="卫视",河北卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001229/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hbws.png" group-title="卫视",河北卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=hebeiSD
 #EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hbws.png" group-title="卫视",河北卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000341?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hnws.png" group-title="卫视",河南卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001222/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hnws.png" group-title="卫视",河南卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=henanHD
 
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hljtv.png" group-title="卫视",黑龙江卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001031/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hljtv.png" group-title="卫视",黑龙江卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=heilongjiangHD
 #EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hljtv.png" group-title="卫视",黑龙江卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000227?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hbtv.png" group-title="卫视",湖北卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001027/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hbtv.png" group-title="卫视",湖北卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=hubeiSD
 #EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hbtv.png" group-title="卫视",湖北卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hntv.png" group-title="卫视",湖南卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hntv.png" group-title="卫视",湖南卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=hunanHD
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hntv.png" group-title="卫视",湖南卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000228?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jykt.png" group-title="卫视",湖南金鹰卡通(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001098/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jykt.png" group-title="卫视",湖南金鹰卡通(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=jinyingSD
 
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jltv.png" group-title="卫视",吉林卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001225/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jltv.png" group-title="卫视",吉林卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=jilinHD
 
 #EXTINF:-1 tvg-id="" tvg-name="延边卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/ybtv.png" group-title="卫视",吉林延边卫视(官方网络)
 http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jstv.png" group-title="卫视",江苏卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001033/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jstv.png" group-title="卫视",江苏卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=jiangsuHD
 #EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jstv.png" group-title="卫视",江苏卫视(重庆联通组播)
@@ -271,22 +343,32 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000225?AuthInfo=xxx
 #EXTINF:-1 tvg-id="" tvg-name="优漫卡通" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/ymkt.png" group-title="卫视",江苏优漫卡通(IPv6)
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/wh7f454c46tw3886418684_2037212681/ott.mobaibox.com/PLTV/4/224/3221225933/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jxtv.png" group-title="卫视",江西卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001034/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jxtv.png" group-title="卫视",江西卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=jiangxiHD
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/jxtv.png" group-title="卫视",江西卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000378?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/lntv.png" group-title="卫视",辽宁卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001035/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/lntv.png" group-title="卫视",辽宁卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=liaoningHD
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/lntv.png" group-title="卫视",辽宁卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000260?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/nmgtv.png" group-title="卫视",内蒙古卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/nmgtv.png" group-title="卫视",内蒙古卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=neimengkuSD
 
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/nxtv.png" group-title="卫视",宁夏卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001074/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/nxtv.png" group-title="卫视",宁夏卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=ningxia
 
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qhtv.png" group-title="卫视",青海卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001082/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qhtv.png" group-title="卫视",青海卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=qinghaiSD
 
@@ -294,55 +376,73 @@ https://live.goodiptv.club/api/cqyx.php?id=qinghaiSD
 http://stream.qhbtv.com/adws/sd/live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sdtv.png" group-title="卫视",山东卫视
-https://live.goodiptv.club/api/sxg.php?id=sdwsH265_4000
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001028/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sdtv.png" group-title="卫视",山东卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000261?AuthInfo=xxx&amp;userid=
 
 #EXTINF:-1 tvg-id="" tvg-name="山东教育卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sdjy.png" group-title="卫视",山东教育卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=sdjiaoyuSD
 
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sxws.png" group-title="卫视",山西卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001070/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sxws.png" group-title="卫视",山西卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=shanxiSD
 
-#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sxtv.png" group-title="卫视",陕西卫视
-https://live.goodiptv.club/api/sxg.php?id=sxws_4000
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sxtv.png" group-title="卫视",陕西卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001067/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="陕西农林卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/nltv.png" group-title="卫视",陕西农林卫视(IPv6)
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/wh7f454c46tw3215758974_-853393220/ott.mobaibox.com/PLTV/3/224/3221227648/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/dftv.png" group-title="卫视",上海东方卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001013/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/dftv.png" group-title="卫视",上海东方卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=shanghaiHD
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/dftv.png" group-title="卫视",上海东方卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&amp;userid=
 
-#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hhxd.png" group-title="卫视",上海哈哈炫动
-http://hhxd
+#EXTINF:-1 tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hhxd.png" group-title="卫视",上海哈哈炫动(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001232/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sctv.png" group-title="卫视",四川卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001130/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sctv.png" group-title="卫视",四川卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=sichuanHD
 #EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/sctv.png" group-title="卫视",四川卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000377?AuthInfo=xxx&amp;userid=
 
 #EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/kbtv.png" group-title="卫视",四川康巴卫视
-https://live.goodiptv.club/api/sxg.php?id=kbwsH264_2000
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/tjtv.png" group-title="卫视",天津卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/tjtv.png" group-title="卫视",天津卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=tianjinHD
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/tjtv.png" group-title="卫视",天津卫视(重庆联通组播)
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000223?AuthInfo=xxx&amp;userid=
 
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/xztv.png" group-title="卫视",西藏卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001072/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/xztv.png" group-title="卫视",西藏卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=xizangSD
 
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/xjtv.png" group-title="卫视",新疆卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/xjtv.png" group-title="卫视",新疆卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=xinjiangSD
 
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/bttv.png" group-title="卫视",新疆兵团卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001066/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/bttv.png" group-title="卫视",新疆兵团卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=bingtuanSD
 
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/yntv.png" group-title="卫视",云南卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001223/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/yntv.png" group-title="卫视",云南卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=yunnanSD
 
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/zjtv.png" group-title="卫视",浙江卫视(IPv6)
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001023/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/zjtv.png" group-title="卫视",浙江卫视(重庆有线)
 https://live.goodiptv.club/api/cqyx.php?id=zhejiangHD
 #EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/zjtv.png" group-title="卫视",浙江卫视(重庆联通组播)
@@ -402,45 +502,41 @@ http://qxlmlive9.cbg.cn/app_2/ls_58.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="HKS" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/xgtv.png" group-title="港澳",香港卫视(官方网络)
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhzw.png" group-title="港澳",凤凰卫视
-https://live.goodiptv.club/api/sxg.php?id=test1_4000
 #EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhzw.png" group-title="港澳",凤凰卫视(IPv6)
 http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhzx.png" group-title="港澳",凤凰资讯
-https://live.goodiptv.club/api/sxg.php?id=test2_4000
 #EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhzx.png" group-title="港澳",凤凰资讯(IPv6)
 http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhdy.png" group-title="港澳",凤凰电影
+#EXTINF:-1 tvg-id="" tvg-name="凤凰电影" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhdy.png" group-title="港澳",凤凰电影(无源)
 http://fhdy
 
-#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhxg.png" group-title="港澳",凤凰香港(StreamLink)
-https://sc2022.stream-link.org/tv2306.php?id=h20
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhxg.png" group-title="港澳",凤凰香港(IPv6)
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="凤凰欧洲" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhoz.png" group-title="港澳",凤凰欧洲
+#EXTINF:-1 tvg-id="" tvg-name="凤凰欧洲" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhoz.png" group-title="港澳",凤凰欧洲(无源)
 http://fhoz
 
-#EXTINF:-1 tvg-id="" tvg-name="凤凰美洲" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhmz.png" group-title="港澳",凤凰美洲
+#EXTINF:-1 tvg-id="" tvg-name="凤凰美洲" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/fhmz.png" group-title="港澳",凤凰美洲(无源)
 http://fhmz
 
 #EXTINF:-1 tvg-id="" tvg-name="港台电视31" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/rthk31.png" group-title="港澳",港台电视31(StreamLink)
-https://sc2022.stream-link.org/tv2306.php?id=h09
-
-#EXTINF:-1 tvg-id="" tvg-name="港台电视32" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/rthk32.png" group-title="港澳",港台电视32(StreamLink)
-https://sc2022.stream-link.org/tv2306.php?id=h10
-
-#EXTINF:-1 tvg-id="" tvg-name="港台电视33" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/rthk33.png" group-title="港澳",港台电视33(StreamLink)
 https://sc2022.stream-link.org/tv2306.php?id=h11
 
-#EXTINF:-1 tvg-id="" tvg-name="港台电视34" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/rthk34.png" group-title="港澳",港台电视34(StreamLink)
+#EXTINF:-1 tvg-id="" tvg-name="港台电视32" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/rthk32.png" group-title="港澳",港台电视32(StreamLink)
 https://sc2022.stream-link.org/tv2306.php?id=h12
 
-#EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hkibc.png" group-title="港澳",香港国际财经(StreamLink)
+#EXTINF:-1 tvg-id="" tvg-name="港台电视33" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/rthk33.png" group-title="港澳",港台电视33(StreamLink)
 https://sc2022.stream-link.org/tv2306.php?id=h13
 
-#EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hoytv.png" group-title="港澳",奇妙中文(StreamLink)
+#EXTINF:-1 tvg-id="" tvg-name="港台电视34" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/rthk34.png" group-title="港澳",港台电视34(StreamLink)
+https://sc2022.stream-link.org/tv2306.php?id=h14
+
+#EXTINF:-1 tvg-id="" tvg-name="香港国际财经台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hkibc.png" group-title="港澳",香港国际财经(StreamLink)
 https://sc2022.stream-link.org/tv2306.php?id=h15
+
+#EXTINF:-1 tvg-id="" tvg-name="香港开电视" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hoytv.png" group-title="港澳",奇妙中文(StreamLink)
+https://sc2022.stream-link.org/tv2306.php?id=h16
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/hoytvzx.png" group-title="港澳",奇妙资讯(StreamLink)
 https://sc2022.stream-link.org/tv2306.php?id=h17
@@ -454,28 +550,28 @@ https://sc2022.stream-link.org/tv2306.php?id=h03
 #EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/tvbxw.png" group-title="港澳",TVB无线新闻(StreamLink)
 https://sc2022.stream-link.org/tv2306.php?id=h04
 
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/tvbmz.png" group-title="港澳",TVB明珠
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/tvbmz.png" group-title="港澳",TVB明珠(无源)
 http://tvbmz
 
 #EXTINF:-1 tvg-id="" tvg-name="无线财经" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/tvbcjtyzx.png" group-title="港澳",TVB财经体育资讯(StreamLink)
 https://sc2022.stream-link.org/tv2306.php?id=h05
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/tvbxh.png" group-title="港澳",TVB星河(StreamLink)
-https://sc2022.stream-link.org/tv2306.php?id=h23
+https://sc2022.stream-link.org/tv2306.php?id=h22
 
-#EXTINF:-1 tvg-id="" tvg-name="VIUTV" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/viutv.png" group-title="港澳",香港电视娱乐
+#EXTINF:-1 tvg-id="" tvg-name="VIUTV" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/viutv.png" group-title="港澳",香港电视娱乐(无源)
 http://viutv
 
-#EXTINF:-1 tvg-id="" tvg-name="VIUTVSIX" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/viutv6.png" group-title="港澳",香港电视娱乐6
+#EXTINF:-1 tvg-id="" tvg-name="VIUTVSIX" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/viutv6.png" group-title="港澳",香港电视娱乐6(无源)
 http://viutv6
 
-#EXTINF:-1 tvg-id="" tvg-name="有线新闻台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/icablexw.png" group-title="港澳",有线新闻
+#EXTINF:-1 tvg-id="" tvg-name="有线新闻台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/icablexw.png" group-title="港澳",有线新闻(无源)
 http://icablexw
 
-#EXTINF:-1 tvg-id="" tvg-name="有线财经资讯台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/icablecjzx.png" group-title="港澳",有线财经资讯
+#EXTINF:-1 tvg-id="" tvg-name="有线财经资讯台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/icablecjzx.png" group-title="港澳",有线财经资讯(无源)
 http://icablecjzx
 
-#EXTINF:-1 tvg-id="" tvg-name="有线直播新闻台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/icablezbxw.png" group-title="港澳",有线直播新闻
+#EXTINF:-1 tvg-id="" tvg-name="有线直播新闻台" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/icablezbxw.png" group-title="港澳",有线直播新闻(无源)
 http://icablezbxw
 
 #EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/aomen1.png" group-title="港澳",澳视澳门(澳门广电网络)
