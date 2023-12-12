@@ -180,12 +180,18 @@ http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc72.png" group-title="央视",CHC家庭影院(IPv6)
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc72.png" group-title="央视",CHC家庭影院(重庆有线)
+https://tv.iill.top/cqyx/chcjtyyHD
 
 #EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc73.png" group-title="央视",CHC动作电影(IPv6)
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc73.png" group-title="央视",CHC动作电影(重庆有线)
+https://tv.iill.top/cqyx/chcdzdyHD
 
 #EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc74.png" group-title="央视",CHC高清电影(IPv6)
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1 tvg-id="" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/chc74.png" group-title="央视",CHC高清电影(重庆有线)
+https://tv.iill.top/cqyx/chcgqdyHD
 
 #EXTINF:-1 tvg-id="" tvg-name="求索记录" tvg-logo="https://gitee.com/vonliong/appletv/raw/logo/qiusuo1.png" group-title="华数",求索记录(IPv6)
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
