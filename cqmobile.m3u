@@ -1,0 +1,225 @@
+#EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz"
+
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV1.png" group-title="央视",CCTV1综合HD
+http://192.168.2.1:5140/rtp/239.253.112.17:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV2.png" group-title="央视",CCTV2财经HD
+http://192.168.2.1:5140/rtp/239.253.112.18:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV3.png" group-title="央视",CCTV3综艺HD
+http://192.168.2.1:5140/rtp/239.253.112.19:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV4.png" group-title="央视",CCTV4中文国际HD
+http://192.168.2.1:5140/rtp/239.253.112.20:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV5.png" group-title="央视",CCTV5体育HD
+http://192.168.2.1:5140/rtp/239.253.112.21:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV5p.png" group-title="央视",CCTV5+体育赛事HD
+http://192.168.2.1:5140/rtp/239.253.112.73:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV6.png" group-title="央视",CCTV6电影HD
+http://192.168.2.1:5140/rtp/239.253.112.22:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV7.png" group-title="央视",CCTV7国防军事HD
+http://192.168.2.1:5140/rtp/239.253.112.23:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV8.png" group-title="央视",CCTV8电视剧HD
+http://192.168.2.1:5140/rtp/239.253.112.24:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV9.png" group-title="央视",CCTV9纪录HD
+http://192.168.2.1:5140/rtp/239.253.112.25:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV10.png" group-title="央视",CCTV10科教HD
+http://192.168.2.1:5140/rtp/239.253.112.26:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV11.png" group-title="央视",CCTV11戏曲HD
+http://192.168.2.1:5140/rtp/239.253.112.10:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV12.png" group-title="央视",CCTV12社会与法HD
+http://192.168.2.1:5140/rtp/239.253.112.27:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV13.png" group-title="央视",CCTV13新闻HD
+http://192.168.2.1:5140/rtp/239.253.112.13:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV14.png" group-title="央视",CCTV14少儿HD
+http://192.168.2.1:5140/rtp/239.253.112.29:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV15.png" group-title="央视",CCTV15音乐HD
+http://192.168.2.1:5140/rtp/239.253.112.12:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克4K
+http://192.168.2.1:5678/yspios.php?id=cctv164k
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克HD
+http://192.168.2.1:5678/yspios.php?id=cctv16
+#EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV17.png" group-title="央视",CCTV17农业农村HD
+http://192.168.2.1:5140/rtp/239.253.112.14:9000
+#EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV4K.png" group-title="央视",CCTV4K超高清
+http://192.168.2.1:5678/yspios.php?id=cctv4k
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV8K.png" group-title="央视",CCTV8K超高清
+http://192.168.2.1:5678/yspios.php?id=cctv8k
+#EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTVgefwq.png" group-title="央视",CCTV高尔夫·网球HD
+http://192.168.2.1:5140/rtp/239.253.112.88:9000
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTN.png" group-title="央视",CGTN HD
+https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
+#https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNd.png" group-title="央视",CGTN纪录HD
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#https://0472.org/hls/cgtnd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNxy.png" group-title="央视",CGTN西语HD
+https://0472.org/hls/cgtnx.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNfy.png" group-title="央视",CGTN法语HD
+https://0472.org/hls/cgtnf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNay.png" group-title="央视",CGTN阿语HD
+https://0472.org/hls/cgtna.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNey.png" group-title="央视",CGTN俄语HD
+https://0472.org/hls/cgtne.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CETV1.png" group-title="数字",CETV1综合教育HD
+http://192.168.2.1:5140/rtp/239.253.112.83:9000
+#EXTINF:-1 tvg-id="" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CETV4.png" group-title="数字",CETV4职业教育HD
+http://192.168.2.1:5140/rtp/239.253.112.95:9000
+#EXTINF:-1 tvg-id="" tvg-name="求索纪录" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Qiusuo1.png" group-title="数字",求索纪录HD
+http://192.168.2.1:5140/rtp/239.253.112.87:9000
+#EXTINF:-1 tvg-id="" tvg-name="中国交通" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/zgjt.png" group-title="数字",中国交通HD
+http://192.168.2.1:5140/rtp/239.253.112.90:9000
+
+#EXTINF:-1 tvg-id="" tvg-name="香港卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/HKS.png" group-title="港澳",香港卫视HD
+http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="凤凰中文" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Phoenix1.png" group-title="港澳",凤凰卫视中文台HD
+https://cdn.qd.je/163189/fhzw
+#EXTINF:-1 tvg-id="" tvg-name="凤凰资讯" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Phoenix2.png" group-title="港澳",凤凰卫视资讯台HD
+https://cdn.qd.je/163189/fhzx
+#EXTINF:-1 tvg-id="" tvg-name="凤凰香港" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Phoenix3.png" group-title="港澳",凤凰卫视香港台HD
+https://cdn.qd.je/163189/fhhk
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/TVB1.png" group-title="港澳",TVB翡翠台4K
+https://cdn.qd.je/163189/fct4k
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/TVB1.png" group-title="港澳",TVB翡翠台HD
+https://cdn.qd.je/163189/fct2
+#EXTINF:-1 tvg-id="" tvg-name="TVB Plus" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/TVB2.png" group-title="港澳",TVB Plus HD
+https://cdn.qd.je/163189/tvbp
+#EXTINF:-1 tvg-id="" tvg-name="无线新闻" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/TVB3.png" group-title="港澳",TVB无线新闻台HD
+https://cdn.qd.je/163189/wxxw
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/TVB4.png" group-title="港澳",TVB明珠台HD
+https://cdn.qd.je/163189/mzt
+#EXTINF:-1 tvg-id="" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/TVB5.png" group-title="港澳",TVB星河台HD
+https://cdn.qd.je/163189/tvbxh
+#EXTINF:-1 tvg-id="" tvg-name="澳视澳门" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Aoshi1.png" group-title="港澳",澳视澳门HD
+https://live5.tdm.com.mo/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视葡文" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Aoshi2.png" group-title="港澳",澳视葡文HD
+https://live5.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视卫星" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Aoshi6.png" group-title="港澳",澳门Macau HD
+https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视体育" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Aoshi3.png" group-title="港澳",澳门体育HD
+https://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视资讯" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Aoshi4.png" group-title="港澳",澳门资讯HD
+https://live5.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="澳视综艺" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Aoshi5.png" group-title="港澳",澳门综艺HD
+https://live5.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CNN.png" group-title="国际",CNN International HD
+https://jmp2.uk/stvp-GBBD8000016N
+#EXTINF:-1 tvg-id="" tvg-name="BBCWORLDNEWS" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/BBCNews.png" group-title="国际",BBC News HD
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/MTVLive.png" group-title="国际",MTV Live HD
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CN卡通" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CartoonNetwork.png" group-title="国际",Cartoon Network HD
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Beijing.png" group-title="卫视",北京卫视4K
+http://192.168.2.1:5140/rtp/239.253.112.92:9000
+#EXTINF:-1 tvg-id="" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Beijing.png" group-title="卫视",北京卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.40:9000
+#EXTINF:-1 tvg-id="" tvg-name="卡酷少儿" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/kkse.png" group-title="卫视",北京卡酷少儿SD
+http://192.168.2.1:5140/rtp/239.253.112.85:9000
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Dongfang.png" group-title="卫视",上海东方卫视4K
+http://192.168.2.1:5140/rtp/239.253.112.133:9000
+#EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Dongfang.png" group-title="卫视",上海东方卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.38:9000
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Tianjin.png" group-title="卫视",天津卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.42:9000
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="卫视",重庆卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.1:9000
+#EXTINF:-1 tvg-id="" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Hebei.png" group-title="卫视",河北卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.61:9000
+#EXTINF:-1 tvg-id="" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Shanxi.png" group-title="卫视",山西卫视SD
+http://192.168.2.1:5140/rtp/239.253.112.49:9000
+#EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Neimenggu.png" group-title="卫视",内蒙古卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.228:9000
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Liaoning.png" group-title="卫视",辽宁卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.56:9000
+#EXTINF:-1 tvg-id="" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Jilin.png" group-title="卫视",吉林卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.246:9000
+#EXTINF:-1 tvg-id="" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Heilongjiang.png" group-title="卫视",黑龙江卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.47:9000
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Jiangsu.png" group-title="卫视",江苏卫视4K
+http://192.168.2.1:5140/rtp/239.253.112.131:9000
+#EXTINF:-1 tvg-id="" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Jiangsu.png" group-title="卫视",江苏卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.36:9000
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Zhejiang.png" group-title="卫视",浙江卫视4K
+http://192.168.2.1:5140/rtp/239.253.112.132:9000
+#EXTINF:-1 tvg-id="" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Zhejiang.png" group-title="卫视",浙江卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.37:9000
+#EXTINF:-1 tvg-id="" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Anhui.png" group-title="卫视",安徽卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.48:9000
+#EXTINF:-1 tvg-id="" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Dongnan.png" group-title="卫视",福建东南卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.54:9000
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Jiangxi.png" group-title="卫视",江西卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.80:9000
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Shandong.png" group-title="卫视",山东卫视4K
+http://192.168.2.1:5140/rtp/239.253.112.135:9000
+#EXTINF:-1 tvg-id="" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Shandong.png" group-title="卫视",山东卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.41:9000
+#EXTINF:-1 tvg-id="" tvg-name="山东教育" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Shandongjy.png" group-title="卫视",山东教育卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.94:9000
+#EXTINF:-1 tvg-id="" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Henan.png" group-title="卫视",河南卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.97:9000
+#EXTINF:-1 tvg-id="" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Hubei.png" group-title="卫视",湖北卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.51:9000
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Hunan.png" group-title="卫视",湖南卫视4K
+http://192.168.2.1:5140/rtp/239.253.112.130:9000
+#EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Hunan.png" group-title="卫视",湖南卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.58:9000
+#EXTINF:-1 tvg-id="" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/jykt.png" group-title="卫视",湖南金鹰卡通SD
+http://192.168.2.1:5140/rtp/239.253.112.66:9000
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Guangdong.png" group-title="卫视",广东卫视4K
+http://192.168.2.1:5140/rtp/239.253.112.99:9000
+#EXTINF:-1 tvg-id="" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Guangdong.png" group-title="卫视",广东卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.59:9000
+#EXTINF:-1 tvg-id="" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/jjkt.png" group-title="卫视",广东嘉佳卡通SD
+http://192.168.2.1:5140/rtp/239.253.112.67:9000
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Shenzhen.png" group-title="卫视",深圳卫视4K
+http://192.168.2.1:5140/rtp/239.253.112.98:9000
+#EXTINF:-1 tvg-id="" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Shenzhen.png" group-title="卫视",深圳卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.39:9000
+#EXTINF:-1 tvg-id="" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Guangxi.png" group-title="卫视",广西卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.126:9000
+#EXTINF:-1 tvg-id="" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Hainan.png" group-title="卫视",海南卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.212:9000
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Sichuan.png" group-title="卫视",四川卫视4K
+http://192.168.2.1:5140/rtp/239.253.112.134:9000
+#EXTINF:-1 tvg-id="" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Sichuan.png" group-title="卫视",四川卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.44:9000
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Guizhou.png" group-title="卫视",贵州卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.43:9000
+#EXTINF:-1 tvg-id="" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Yunnan.png" group-title="卫视",云南卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.129:9000
+#EXTINF:-1 tvg-id="" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Xizang.png" group-title="卫视",西藏卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.160:9000
+#EXTINF:-1 tvg-id="" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Shaanxi.png" group-title="卫视",陕西卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.227:9000
+#EXTINF:-1 tvg-id="" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Gansu.png" group-title="卫视",甘肃卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.93:9000
+#EXTINF:-1 tvg-id="" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Qinghai.png" group-title="卫视",青海卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.127:9000
+#EXTINF:-1 tvg-id="" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Ningxia.png" group-title="卫视",宁夏卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.128:9000
+#EXTINF:-1 tvg-id="" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Xinjiang.png" group-title="卫视",新疆卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.100:9000
+#EXTINF:-1 tvg-id="" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Bingtuan.png" group-title="卫视",新疆兵团卫视HD
+http://192.168.2.1:5140/rtp/239.253.112.161:9000
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆新闻" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆新闻HD
+http://192.168.2.1:5140/rtp/239.253.112.2:9000
+#EXTINF:-1 tvg-id="" tvg-name="重庆影视剧" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆影视剧HD
+http://192.168.2.1:5140/rtp/239.253.112.3:9000
+#EXTINF:-1 tvg-id="" tvg-name="重庆红叶" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆红叶HD
+http://192.168.2.1:5140/rtp/239.253.112.9:9000
+#EXTINF:-1 tvg-id="" tvg-name="重庆社会与法" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆社会与法HD
+http://192.168.2.1:5140/rtp/239.253.112.4:9000
+#EXTINF:-1 tvg-id="" tvg-name="重庆文体娱乐" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆文体娱乐HD
+http://192.168.2.1:5140/rtp/239.253.112.6:9000
+#EXTINF:-1 tvg-id="" tvg-name="重庆红岩文化" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆红岩文化HD
+http://192.168.2.1:5140/rtp/239.253.112.5:9000
+#EXTINF:-1 tvg-id="" tvg-name="重庆新农村" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆新农村HD
+http://192.168.2.1:5140/rtp/239.253.112.7:9000
+#EXTINF:-1 tvg-id="" tvg-name="重庆少儿" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆少儿HD
+http://192.168.2.1:5140/rtp/239.253.112.8:9000
+#EXTINF:-1 tvg-id="" tvg-name="重庆汽摩" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆汽摩HD
+http://192.168.2.1:5140/rtp/239.253.112.11:9000
+#EXTINF:-1 tvg-id="" tvg-name="重庆移动" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆移动HD
+http://192.168.2.1:5140/rtp/239.253.112.31:9000
