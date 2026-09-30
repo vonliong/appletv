@@ -51,17 +51,17 @@ http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111014/1.m3u8
 http://192.168.2.1:5140/rtp/239.253.112.12:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111015/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克4K
-http://192.168.2.1:8766/cctv16.m3u8
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111092/1.m3u8
+http://192.168.2.1:8766/cctv16.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克HD
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111091/1.m3u8
-#http://192.168.2.1:5678/yspios.php?id=cctv16
+http://192.168.2.1:5678/yspios.php?id=cctv16
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV17.png" group-title="央视",CCTV17农业农村HD
 http://192.168.2.1:5140/rtp/239.253.112.14:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111016/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV4K.png" group-title="央视",CCTV4K超高清
-http://192.168.2.1:8766/cctv4k.m3u8
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111130/1.m3u8
+http://192.168.2.1:8766/cctv4k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV8K.png" group-title="央视",CCTV8K超高清
 http://192.168.2.1:8766/cctv8k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="高尔夫网球" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTVgefwq.png" group-title="央视",CCTV高尔夫·网球HD
