@@ -33,7 +33,7 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000291
 #EXTINF:-1 tvg-id="" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV15.png" group-title="央视",CCTV15音乐HD
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000388
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克4K
-http://
+rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000448
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克HD
 http://
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV17.png" group-title="央视",CCTV17农业农村HD
