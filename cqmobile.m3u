@@ -60,6 +60,7 @@ http://192.168.2.1:5678/yspios.php?id=cctv16
 http://192.168.2.1:5140/rtp/239.253.112.14:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111016/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV4K.png" group-title="央视",CCTV4K超高清
+http://192.168.2.1:5140/rtp/239.253.112.72:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111130/1.m3u8
 http://192.168.2.1:5678/ysptp.php/cctv4k
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8K" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV8K.png" group-title="央视",CCTV8K超高清
@@ -310,4 +311,4 @@ http://ltccq.cqa.bcs.ottcn.com/000000001777/400000000100111020/1.m3u8
 http://192.168.2.1:5140/rtp/239.253.112.11:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001777/400000000100111022/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="重庆移动" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="本地",重庆移动HD
-http://192.168.2.1:5140/rtp/239.253.112.31:9000
+http://192.168.2.1:5140/rtp/239.253.112.16:9000
