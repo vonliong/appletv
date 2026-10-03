@@ -97,7 +97,7 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNfy.png" group-title="央视",CGTN法语HD[央视频/推流]
 http://192.168.2.1:5678/ysptp.php/cgtnfr
 https://0472.org/hls/cgtnf.m3u8
-EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNay.png" group-title="央视",CGTN阿语HD[央视频/推流]
+#EXTINF:-1 tvg-id="" tvg-name="CGTN阿语" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNay.png" group-title="央视",CGTN阿语HD[央视频/推流]
 http://192.168.2.1:5678/ysptp.php/cgtnar
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN俄语" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNey.png" group-title="央视",CGTN俄语HD[央视频/推流]
