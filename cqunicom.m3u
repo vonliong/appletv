@@ -50,12 +50,12 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000407
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000402
 #EXTINF:-1 tvg-id="" tvg-name="央视台球" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTVystq.png" group-title="央视",CCTV央视台球HD[单播]
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000404
-#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTN.png" group-title="央视",CGTN HD[官方]
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTN.png" group-title="央视",CGTN HD[官方/推流]
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#https://0472.org/hls/cgtn.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNd.png" group-title="央视",CGTN纪录HD[官方]
+https://0472.org/hls/cgtn.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNd.png" group-title="央视",CGTN纪录HD[官方/推流]
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#https://0472.org/hls/cgtnd.m3u8
+https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN西语" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNxy.png" group-title="央视",CGTN西语HD[推流]
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CGTNfy.png" group-title="央视",CGTN法语HD[推流]
