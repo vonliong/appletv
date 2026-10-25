@@ -53,9 +53,8 @@ http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111015/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克4K[单播/央视频]
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111092/1.m3u8
 http://192.168.2.1:8766/cctv164k
-#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克HD[单播/央视频]
+#EXTINF:-1 tvg-id="" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV16.png" group-title="央视",CCTV16奥林匹克HD[单播]
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111091/1.m3u8
-http://192.168.2.1:8766/cctv16
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/CCTV17.png" group-title="央视",CCTV17农业农村HD[组播/单播]
 http://192.168.2.1:5140/rtp/239.253.112.14:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111016/1.m3u8
