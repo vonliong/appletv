@@ -211,7 +211,7 @@ http://192.168.2.1:5140/rtp/239.253.112.51:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111035/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Hunan.png" group-title="卫视",湖南卫视4K[组播/单播]
 http://192.168.2.1:5140/rtp/239.253.112.130:9000
-http://ltccq.cqa.bcs.ottcn.com/000000001777/400000000100111130/1.m3u8
+http://ltccq.cqa.bcs.ottcn.com/000000001666/400000000100111130/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Hunan.png" group-title="卫视",湖南卫视HD[组播/单播]
 http://192.168.2.1:5140/rtp/239.253.112.58:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111129/1.m3u8
