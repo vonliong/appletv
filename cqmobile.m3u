@@ -146,9 +146,13 @@ http://192.168.2.1:5140/rtp/239.253.112.133:9000
 #EXTINF:-1 tvg-id="" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Dongfang.png" group-title="卫视",上海东方卫视HD[组播/单播]
 http://192.168.2.1:5140/rtp/239.253.112.38:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111109/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Tianjin.png" group-title="卫视",天津卫视4K[组播]
+http://192.168.2.1:5140/rtp/239.253.112.140:9000
 #EXTINF:-1 tvg-id="" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Tianjin.png" group-title="卫视",天津卫视HD[组播/单播]
 http://192.168.2.1:5140/rtp/239.253.112.42:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111025/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="卫视",重庆卫视4K[组播]
+http://192.168.2.1:5140/rtp/239.253.112.138:9000
 #EXTINF:-1 tvg-id="" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Chongqing.png" group-title="卫视",重庆卫视HD[组播/单播]
 http://192.168.2.1:5140/rtp/239.253.112.1:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111108/1.m3u8
@@ -161,6 +165,8 @@ http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111032/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Neimenggu.png" group-title="卫视",内蒙古卫视HD[组播/单播]
 http://192.168.2.1:5140/rtp/239.253.112.228:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111041/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Liaoning.png" group-title="卫视",辽宁卫视4K[组播]
+http://192.168.2.1:5140/rtp/239.253.112.137:9000
 #EXTINF:-1 tvg-id="" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Liaoning.png" group-title="卫视",辽宁卫视HD[组播/单播]
 http://192.168.2.1:5140/rtp/239.253.112.56:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111027/1.m3u8
@@ -192,6 +198,8 @@ http://192.168.2.1:5140/rtp/239.253.112.54:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111110/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Xiamen.png" group-title="卫视",福建厦门卫视SD[单播]
 http://ltccq.cqa.bcs.ottcn.com/000000001666/1000000005000266006/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Jiangxi.png" group-title="卫视",江西卫视4K[组播]
+http://192.168.2.1:5140/rtp/239.253.112.139:9000
 #EXTINF:-1 tvg-id="" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Jiangxi.png" group-title="卫视",江西卫视HD[组播/单播]
 http://192.168.2.1:5140/rtp/239.253.112.80:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111026/1.m3u8
@@ -246,6 +254,8 @@ http://192.168.2.1:5140/rtp/239.253.112.44:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111029/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="康巴卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Kangba.png" group-title="卫视",四川康巴卫视SD[单播]
 http://ltccq.cqa.bcs.ottcn.com/000000001666/1000000005000266002/1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Guizhou.png" group-title="卫视",贵州卫视4K[组播]
+http://192.168.2.1:5140/rtp/239.253.112.136:9000
 #EXTINF:-1 tvg-id="" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/vonliong/appletv/refs/heads/logo/Guizhou.png" group-title="卫视",贵州卫视HD[组播/单播]
 http://192.168.2.1:5140/rtp/239.253.112.43:9000
 http://ltccq.cqa.bcs.ottcn.com/000000001666/100000000100111034/1.m3u8
